@@ -1,0 +1,28 @@
+{
+  "name": "ajs-2.3-esm",
+  "version": "1.0.0",
+  "description": "ajs homework import/export",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergius92739/ajs-2.2-import_export.git"
+  },
+  "author": "Sergius92739",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergius92739/ajs-2.2-import_export/issues"
+  },
+  "homepage": "https://github.com/Sergius92739/ajs-2.2-import_export#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "live-server": "^1.2.1"
+  }
+}
